@@ -1,1 +1,3 @@
-mkdir -p welcome/to/school  
+#!/bin/bash
+mkdir -p $dir welcome/to/school
+
