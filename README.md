@@ -1,1 +1,1 @@
-how to learn
+for readme
